@@ -1,6 +1,9 @@
 # Machine-Learning-Naive-Bayes-Classifier
 Python code using Naive Bayes Classifier on IMDB dataset
 
+<br>
+<br>
+
 1. HW1.pdf: description
 2. naivebayes.py: python code of naive bayes classifier
 3. howtorun.txt, instruction.txt: guidance to run .py
